@@ -2,3 +2,6 @@
 *~
 .idea
 *.synctex.gz
+*_full.tex
+*_full.pdf
+*_full.bib
